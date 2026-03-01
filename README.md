@@ -4,6 +4,11 @@ A comprehensive collection of fundamental machine learning algorithms, statistic
 
 Developed for **Assignment 2** of the **"Statistical Modeling and Pattern Recognition" (THL311)** course at the Technical University of Crete (ECE Department).
 
+**Authors:** 
+* Georgios Argyris (AM: 2020030138)
+* Stamatios Alexiou (AM: 2020030158)
+
+
 ## 🚀 Project Overview
 
 This repository focuses on transitioning from foundational statistical learning algorithms built from scratch to modern deep learning implementations using popular frameworks. It covers linear classifiers, probabilistic estimation, clustering for image compression, and Convolutional Neural Networks (CNNs).
